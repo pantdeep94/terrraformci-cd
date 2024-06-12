@@ -1,8 +1,0 @@
-{
-    "name": "nodejs-lambda-webapp",
-    "version": "1.0.0",
-    "description": "A simple Node.js web application for AWS Lambda",
-    "main": "index.js",
-    "dependencies": {}
-  }
-  
